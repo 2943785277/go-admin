@@ -1,0 +1,39 @@
+[
+  //数据
+  {
+    "id": "0",
+    "name": "城关镇",
+    "name1":"城关所",
+    "amount1": "234",
+    "amount2": "234",
+    "amount3": "12",
+    "amount4": "111",
+    "amount5": 5558,
+    "name_rowspan":2,
+    "name_colspan":1,
+    "name1_rowspan":1,
+    "name1_colspan":2,
+    "amount1_rowspan":0,
+    "amount1_colspan":0
+  },
+
+
+  //多级表头
+  {
+    "fieldNameCN": "部门",    
+    "align": "center",
+    "fieldName": "",
+    "children": [{
+        "fieldName": "name",
+        "fieldNameCN": "",
+        "align": "center"
+      },
+      {
+        "fieldName": "name1",
+        "fieldNameCN": "",
+        "align": "center",
+        "merge": "col"
+      }
+    ]
+  }
+]

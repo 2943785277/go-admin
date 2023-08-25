@@ -1,0 +1,3 @@
+Key=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
+MaxTokens=800
+Temperature=0.7

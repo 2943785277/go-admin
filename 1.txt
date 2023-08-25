@@ -1,0 +1,2 @@
+D:/软件/HBuilderX/HBuilderX.exe
+D:/ruanjian/Redis/redis-server.exe
